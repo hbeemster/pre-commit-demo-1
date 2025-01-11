@@ -3,6 +3,7 @@
 See: https://en.wikipedia.org/wiki/Narcissistic_number
 """
 
+
 # Function to calculate x raised to
 # the power y
 def power(x, y):
