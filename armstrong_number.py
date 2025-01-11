@@ -1,5 +1,7 @@
-# Python program to determine whether
-# the number is Armstrong number or not
+"""Python program to determine whether the number is Armstrong number or not.
+
+See: https://en.wikipedia.org/wiki/Narcissistic_number
+"""
 
 # Function to calculate x raised to
 # the power y
